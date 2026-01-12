@@ -1,0 +1,4 @@
+This is the content of sample text file which has information about Langchain.
+    Langchain is a powerful library for building applications with LLMs.
+    It provides tools for data ingestion, parsing, and more.
+    And it is widely used in the AI community. What more, it supports various data formats.
