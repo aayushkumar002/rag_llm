@@ -5,17 +5,19 @@ __pycache__/
 # Virtual environments
 .venv/
 
-# Jupyter
-.ipynb_checkpoints/
-
 # ENV keys
 .env
-
-# Data
-data/
-*.pdf
-*.docx
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore only 'data' folders inside notebooks
+notebooks/**/data/
+
+# Ignore PDFs + docs
+*.pdf
+*.docx
