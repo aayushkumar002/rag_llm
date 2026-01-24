@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ENV keys
+.env
+
+# Data
+data/
+*.pdf
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
