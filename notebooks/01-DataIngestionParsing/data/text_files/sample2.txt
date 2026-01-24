@@ -1,3 +1,0 @@
-Another sample text file is created here.It contains different information.
-    This file talks about Python programming. Python is a versatile language used for web development, data science, automation, and more.
-    It has a rich ecosystem of libraries and frameworks that make development easier.
