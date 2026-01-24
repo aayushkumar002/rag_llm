@@ -16,7 +16,7 @@ Thumbs.db
 **/.ipynb_checkpoints/
 
 # Ignore only 'data' folders inside notebooks
-notebooks/**/data/
+# notebooks/**/data/
 
 # Ignore PDFs + docs
 *.pdf
